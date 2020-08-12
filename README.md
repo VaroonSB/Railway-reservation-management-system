@@ -28,6 +28,8 @@ Software requirements:
            * A good editor for web-based applications
            * Oracle database( availabe in oracle's official site in different versions)
            * A browser 
+
+
 Domains used in SQL includes triggers, funtions and joints.           
 The files are segregated into sql and jsp+html(covers all CSS and JS part also).
 Hope you can get a clear picure of this project. 
