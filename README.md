@@ -48,7 +48,7 @@ Software requirements:
            * A browser 
 
 
-Domains used in SQL includes triggers, funtions and joints.           
+Domains used in SQL includes triggers, funtions and joins.           
 
 The files are segregated into sql and jsp+html(covers all CSS and JS part also).
 
